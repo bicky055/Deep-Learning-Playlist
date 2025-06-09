@@ -76,7 +76,7 @@ This guide helps beginners understand deep learning concepts from scratch with P
 ---
 
 ## 📧 Author
-- Deep Learning Guide by ChatGPT & [Your Name]
+- Deep Learning Guide by ChatGPT & Bicky Jha
 
 ---
 
